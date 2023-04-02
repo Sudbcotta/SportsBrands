@@ -5,4 +5,4 @@ Site de artigos esportivos
  
  2- extraia-o
  
- 3- abra qualquer um dos arquivos .html
+ 3- abra o arquivo index.html para ser direcionado à página principal
