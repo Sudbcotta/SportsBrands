@@ -1,7 +1,7 @@
 # SportsBrands
 Site de artigos esportivos
 
- 1- baixe o arquivo.zip
+ 1- va em Coded e baixe o ZIP
  
  2- extraia-o
  
